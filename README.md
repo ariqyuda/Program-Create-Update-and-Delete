@@ -7,5 +7,4 @@ codeblock dan ini berjalan dengan baik. Selamat menikmati
 
 Thanks to assistant lab yang telah membimbing dalam pembuatan program ini.
 
-*note : username : admin
-	      password : root
+*note : username : admin, password : root
