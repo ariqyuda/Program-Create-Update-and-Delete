@@ -1,0 +1,6 @@
+Kode, Nama Obat, Tipe Obat, Status Obat
+1923, Paracetamol, Obat Dalam, Tersedia
+1485, Obat Batuk Hitam, Obat Dalam, Tersedia
+1043, Alkohol 70%, Obat Luar, Tidak Tersedia
+1769, Freshcare, Obat Luar, Tidak Tersedia
+8623, Insto, Obat Dalam, Tersedia
